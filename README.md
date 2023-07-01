@@ -1,4 +1,4 @@
-# My Repository
+# Implementation of GWR in R
 
 This repository contains code and files related to my project on Geographically Weighted Regression (GWR) in R.
 The dataset is from Badan Pusat Statistik.
