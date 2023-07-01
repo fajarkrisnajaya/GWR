@@ -105,7 +105,7 @@ moran.test(df_spasial_sp$Avg_Suhu, bobot, alternative="greater")
 library(spdep)
 library(rgdal)
 library(raster)
-peta<-readOGR(dsn="C:/Users/nalia-pc/Dropbox/PC/Documents/===KULIAH===/Kuliah Semester 6/Analisis Data Spasial/Ujian/UTS/UTS ril/Peta/SHP Indonesia", layer="Peta Indonesia")
+peta<-readOGR(dsn="SHPFile/SHP Indonesia", layer="Peta Indonesia")
 
 peta 
 df = data
